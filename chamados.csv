@@ -1,0 +1,19 @@
+﻿id;categoria;agente;status;tempo_resposta_min;nota
+101;Dúvida;Ana Silva;Fechado;15;5
+102;Problema Técnico;Carlos Souza;Fechado;45;4
+103;Financeiro;Ana Silva;Aberto;120;2
+104;Dúvida;Beatriz Lima;Fechado;10;5
+105;Problema Técnico;Carlos Souza;Pendente;60;3
+106;Elogio;Beatriz Lima;Fechado;5;5
+107;Financeiro;Carlos Souza;Fechado;90;4
+108;Problema Técnico;Ana Silva;Fechado;30;4
+109;Dúvida;Beatriz Lima;Fechado;20;5
+110;Problema Técnico;Ana Silva;Aberto;50;3
+111;Dúvida;Carlos Souza;Fechado;12;4
+112;Financeiro;Beatriz Lima;Pendente;75;3
+113;Problema Técnico;Beatriz Lima;Fechado;38;5
+114;Elogio;Ana Silva;Fechado;8;5
+115;Financeiro;Ana Silva;Fechado;100;3
+116;Dúvida;Ana Silva;Aberto;25;4
+117;Problema Técnico;Carlos Souza;Fechado;55;2
+118;Dúvida;Beatriz Lima;Fechado;18;5
